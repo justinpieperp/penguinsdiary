@@ -1,0 +1,6 @@
+framework module Pods_PenguinsDiary {
+  umbrella header "Pods-PenguinsDiary-umbrella.h"
+
+  export *
+  module * { export * }
+}
